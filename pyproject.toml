@@ -1,0 +1,13 @@
+[project]
+name = "btl"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "deep-sort-realtime>=1.3.2",
+    "matplotlib>=3.10.7",
+    "opencv-python-headless>=4.12.0.88",
+    "pandas>=2.3.3",
+    "ultralytics>=8.3.228",
+]
